@@ -1,0 +1,50 @@
+\contentsline {chapter}{\numberline {1}Background}{4}{chapter.1}% 
+\contentsline {section}{\numberline {1.1}Introduction}{4}{section.1.1}% 
+\contentsline {section}{\numberline {1.2}Industry Background}{4}{section.1.2}% 
+\contentsline {chapter}{\numberline {2}Design Requirements}{5}{chapter.2}% 
+\contentsline {chapter}{\numberline {3}Component Information}{6}{chapter.3}% 
+\contentsline {section}{\numberline {3.1}Propulsion}{6}{section.3.1}% 
+\contentsline {subsection}{\numberline {3.1.1}Motor}{6}{subsection.3.1.1}% 
+\contentsline {subsection}{\numberline {3.1.2}Propeller}{7}{subsection.3.1.2}% 
+\contentsline {section}{\numberline {3.2}Chassis}{7}{section.3.2}% 
+\contentsline {subsection}{\numberline {3.2.1}Frame Design}{8}{subsection.3.2.1}% 
+\contentsline {subsection}{\numberline {3.2.2}Arms}{8}{subsection.3.2.2}% 
+\contentsline {subsection}{\numberline {3.2.3}Landing Feet}{8}{subsection.3.2.3}% 
+\contentsline {section}{\numberline {3.3}Electronics}{9}{section.3.3}% 
+\contentsline {subsection}{\numberline {3.3.1}Computer and Carrier Board}{9}{subsection.3.3.1}% 
+\contentsline {subsection}{\numberline {3.3.2}Flight Controller}{9}{subsection.3.3.2}% 
+\contentsline {subsection}{\numberline {3.3.3}Electronic Speed Controller}{9}{subsection.3.3.3}% 
+\contentsline {subsection}{\numberline {3.3.4}GNSS/Compass}{9}{subsection.3.3.4}% 
+\contentsline {subsection}{\numberline {3.3.5}Optical Components}{9}{subsection.3.3.5}% 
+\contentsline {subsection}{\numberline {3.3.6}Power}{9}{subsection.3.3.6}% 
+\contentsline {subsection}{\numberline {3.3.7}Power Management}{10}{subsection.3.3.7}% 
+\contentsline {subsection}{\numberline {3.3.8}Modular Payloads}{10}{subsection.3.3.8}% 
+\contentsline {chapter}{\numberline {4}Component Selection}{11}{chapter.4}% 
+\contentsline {section}{\numberline {4.1}Propulsion}{11}{section.4.1}% 
+\contentsline {subsection}{\numberline {4.1.1}Motor}{11}{subsection.4.1.1}% 
+\contentsline {subsection}{\numberline {4.1.2}Propeller}{11}{subsection.4.1.2}% 
+\contentsline {section}{\numberline {4.2}Chassis}{12}{section.4.2}% 
+\contentsline {subsection}{\numberline {4.2.1}Materials}{12}{subsection.4.2.1}% 
+\contentsline {subsection}{\numberline {4.2.2}Frame Design}{13}{subsection.4.2.2}% 
+\contentsline {subsection}{\numberline {4.2.3}Arms}{13}{subsection.4.2.3}% 
+\contentsline {subsection}{\numberline {4.2.4}Landing Feet}{14}{subsection.4.2.4}% 
+\contentsline {section}{\numberline {4.3}Electronics}{14}{section.4.3}% 
+\contentsline {subsection}{\numberline {4.3.1}Computer and Carrier Board}{14}{subsection.4.3.1}% 
+\contentsline {subsection}{\numberline {4.3.2}Flight Controller}{15}{subsection.4.3.2}% 
+\contentsline {subsection}{\numberline {4.3.3}Electronic Speed Controller}{15}{subsection.4.3.3}% 
+\contentsline {subsection}{\numberline {4.3.4}GNSS/Compass}{15}{subsection.4.3.4}% 
+\contentsline {subsection}{\numberline {4.3.5}Optical Components}{15}{subsection.4.3.5}% 
+\contentsline {subsection}{\numberline {4.3.6}Power}{16}{subsection.4.3.6}% 
+\contentsline {subsection}{\numberline {4.3.7}Power Management}{16}{subsection.4.3.7}% 
+\contentsline {subsection}{\numberline {4.3.8}Modular Payloads}{16}{subsection.4.3.8}% 
+\contentsline {section}{\numberline {4.4}Overall Construction}{17}{section.4.4}% 
+\contentsline {chapter}{\numberline {5}Research of Similar Products}{18}{chapter.5}% 
+\contentsline {chapter}{\numberline {6}Preliminary Design}{19}{chapter.6}% 
+\contentsline {chapter}{\numberline {7}Prototyping \& Testing}{20}{chapter.7}% 
+\contentsline {chapter}{\numberline {8}Detailed Design}{21}{chapter.8}% 
+\contentsline {section}{\numberline {8.1}Design Overview}{21}{section.8.1}% 
+\contentsline {section}{\numberline {8.2}Electrical Design}{21}{section.8.2}% 
+\contentsline {subsection}{\numberline {8.2.1}Wiring Diagram}{21}{subsection.8.2.1}% 
+\contentsline {chapter}{\numberline {9}Verification \& Testing}{22}{chapter.9}% 
+\contentsline {chapter}{\numberline {10}Conclusion}{23}{chapter.10}% 
+\contentsfinish 
